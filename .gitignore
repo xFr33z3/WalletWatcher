@@ -137,3 +137,12 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+.DS_Store
+.idea/.name
+.idea/jsLibraryMappings.xml
+.idea/modules.xml
+.idea/WalletWatcher.iml
+.name
+bot/.DS_Store
+database.db
+media/2A0DB254-2DCD-43A6-8ADC-C30B09FAF997.png
