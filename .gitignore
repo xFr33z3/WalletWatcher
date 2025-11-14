@@ -146,3 +146,4 @@ vite.config.ts.timestamp-*
 bot/.DS_Store
 database.db
 media/2A0DB254-2DCD-43A6-8ADC-C30B09FAF997.png
+.idea/vcs.xml
